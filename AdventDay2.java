@@ -19,7 +19,7 @@ points
 import java.io.File; //Import File class
 import java.io.FileNotFoundException; //Import this class for errors
 import java.util.Scanner; //Import Scanner class to read files.
-class AdventDay2{
+class Advent2{
 
   /**readFile accepts a file and returns the contents as a single string */
   public static String readFile(String file){
